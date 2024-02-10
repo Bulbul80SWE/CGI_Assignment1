@@ -20,4 +20,4 @@ The modification involves :
 +  *Slope :* m=(8-1)/(4-1)=7/3>1
 + *Intermediate Coordinates:* {(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)}
 + *Decision Variables:*  {-1, 5, -3, 3, -5, 1, -7, -1}
-+ *Figure:*
+![Screenshot (2)](https://github.com/Bulbul80SWE/CGI_Assignment1/assets/103897359/026969ad-ac13-402e-8894-c6ab63c23835)
