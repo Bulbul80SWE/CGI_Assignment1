@@ -13,7 +13,7 @@ The modification involves :
 + *Slope :* m=(4-1)/(8-1)=3/7<1
 + *Intermediate Coordinates:* {(1, 1), (2, 1), (3, 2), (4, 2), (5, 3), (6, 3), (7, 4), (8, 4)}
 + *Decision Variables:*  {-1, 5, -3, 3, -5, 1, -7, -1}
-+ *Figure:*
+![Screenshot (1)](https://github.com/Bulbul80SWE/CGI_Assignment1/assets/103897359/88005112-28f2-4d73-b5d6-9ca5b4205c3a)
 
 
 ### For Case 2: (1,1),(4,8)
